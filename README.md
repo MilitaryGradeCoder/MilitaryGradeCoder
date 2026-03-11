@@ -1,5 +1,5 @@
 # 💫 About Me:
-Iam a Indian Navy Veteran<br>Worked in several IT Dept. of Indian Navy<br>Switching to Private IT sector<br>MERN stack developer<br>Passionate Coder<br>
+Served 10+ years in Indian Navy<br>5+ years in several IT Dept. of Indian Navy<br>Supervised IT departments and dev teams<br>Switching to Private IT sector<br>MERN stack developer<br>Passionate Coder<br>
 
 
 ## 🌐 Socials:
